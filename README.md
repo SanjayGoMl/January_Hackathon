@@ -1,5 +1,6 @@
 
 # AI-Powered Stock Analysis & Investment Advisor
+
 <img width="1529" alt="doc_banner" src="https://github.com/user-attachments/assets/55b7c377-a3a5-489d-b9c7-9f74eddc210c" />
 
 
