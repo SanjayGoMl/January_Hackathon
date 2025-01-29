@@ -1,0 +1,9 @@
+streamlit 
+yfinance 
+matplotlib 
+openai
+python-dotenv 
+requests
+crewai
+langchain
+langchain-community
